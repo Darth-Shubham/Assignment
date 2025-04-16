@@ -1,0 +1,5 @@
+Training/Testing Human Dataset URL
+https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-mads-dataset
+
+Training/Testing Animal Dataset URL
+https://www.kaggle.com/datasets/alessiocorrado99/animals10
